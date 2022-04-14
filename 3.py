@@ -6,7 +6,7 @@ else:
     print(y)
 
 f = float(14)
-n = "asaf"
+n = "Ida"
 print(n + str(f))
 r = 'asaf "ida"'
 g = "asaf \"ida\""
@@ -16,4 +16,3 @@ print(r)
 print(g)
 print(h)
 print(i)
-
